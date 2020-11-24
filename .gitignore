@@ -1,0 +1,13 @@
+.vs
+.gitattributes
+
+*.user
+
+[Bb]in/
+[Oo]bj/
+dist/
+vendor/
+built/
+
+node_modules/
+package-lock.json
